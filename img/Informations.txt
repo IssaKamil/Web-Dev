@@ -1,0 +1,4 @@
+Structure the Image Gallery
+[6:39]
+
+When building websites, it's best to write as much of the HTML structure as possible before moving on to CSS. In practice, you'll move back and forth between HTML and CSS, but building most of the structure first will make it an easier process. First we will start by creating the navigation for our site. Then, we can move on to structuring the image gallery and other page content. Finally, we'll finish by including a CSS file into our HTML page.
